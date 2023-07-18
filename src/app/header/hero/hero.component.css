@@ -1,0 +1,28 @@
+
+.hero-img {
+    background-image: url("https://www.hiltongrandvacations.com/-/media/images/main/home/formula-1-desktop-hero.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+.hero-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+.hero-bottom p {
+    color: white;
+}
+
+button {
+    border-radius: 2em;
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 160px;
+    border:none;
+    margin-left: 2em;
+    font-weight: bold;
+}
